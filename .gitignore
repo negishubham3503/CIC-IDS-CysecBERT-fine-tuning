@@ -6,6 +6,7 @@ __pycache__
 *.pyd
 csv_files
 data/.ipynb_checkpoints
+outputs/
 data/train_dataset/
 data/val_dataset/
 data/test_dataset/
